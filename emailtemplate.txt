@@ -1,0 +1,17 @@
+Hello PARENT_FIRST_NAME PARENT_LAST_NAME,
+
+You are receiving this email because your student, STUDENT_FIRST_NAME STUDENT_LAST_NAME,
+is currently at risk for failing COURSE_NAME for the current six weeks.
+
+If they would like to pass this cycle, they can do continuous improvement as outlined on the
+class syllabus or complete any opportunities I may have given them specifically.
+
+Here is a list of assignments that they did not pass, as well as a URL to them (if applicable).
+
+FAILING_ASSIGNMENTS
+
+This is an automatically generated list of assignments; some assignments
+may not be able to be improved. Please refer to the syllabus for our
+continuous improvement policy on different types of assignments.
+
+If you have any questions, feel free to send me an email at TEACHER_EMAIL.
